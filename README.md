@@ -104,7 +104,29 @@ npm start
 
 ---
 ### **`➮ Enlaces útiles`**
-(sin enlaces aún) 
+<p align="center">
+  <a href="mailto:itss.mia.oficial@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href=""https://t.me/@Itssmiaoficial">
+    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+   <a href="https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z">
+    <img src="https://img.shields.io/badge/WHATSAPP-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x">
+    <img src="https://img.shields.io/badge/WHATSAPP-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/Mia Roslyakova">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/its.mia.oficial">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ### **`ᥫ᭡ Propietario`**
 <a
