@@ -104,8 +104,7 @@ npm start
 
 ---
 ### **`➮ Enlaces útiles`**
-
-<details>
+(sin enlaces aún) 
 
 ### **`ᥫ᭡ Propietario`**
 <a
