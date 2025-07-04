@@ -1,6 +1,6 @@
-<h1 align="center">✦ 𝐺᥆ȷ᥆ 𝑆ᥲ𝗍᥆rᥙ✦</h1>
+<h1 align="center">✦sᥙmі sᥲkᥙrᥲsᥲᥕᥲ✦</h1>
 
- <img src= "https://files.catbox.moe/vvysf2.jpg">
+ <img src= "https://files.catbox.moe/km1exh.jpg">
     </p>
 
 ### **`❕️ Información importante`**
