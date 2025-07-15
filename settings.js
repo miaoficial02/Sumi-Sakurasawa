@@ -40,28 +40,28 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = 'YukiBot-MD'
-global.namebot = '✿◟Yυƙι-Sυσυ-Bσƚ◞✿'
+global.nameqr = 'sᥙmі-ᑲ᥆𝗍-MD'
+global.namebot = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
-global.wm = '✿◟Yυƙι Sυσυ◞✿'
-global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.packname = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
+global.botname = '𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴'
+global.wm = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
+global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.etiqueta = 'і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = '¥enes'
-global.welcom1 = '❍ Edita Con El Comando setwelcome'
-global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg'
+global.welcom1 = '✿ Edita Con El Comando #setwelcome'
+global.welcom2 = '✿ Edita Con El Comando #setbye'
+global.banner = 'https://files.catbox.moe/km1exh.jpg'
 global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
