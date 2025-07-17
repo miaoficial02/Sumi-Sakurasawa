@@ -416,7 +416,7 @@ Aquí tienes mi lista de comandos
           mentionedJid: [m.sender, userId],
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-              newsletterJid: channelRD.id,
+              newsletterJid: "192828iqiiw8".id,
               newsletterName: channelRD.name,
               serverMessageId: -1,
           },
