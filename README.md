@@ -111,12 +111,6 @@ npm start
   <a href=""https://t.me/@Itssmiaoficial">
     <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-   <a href="https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z">
-    <img src="https://img.shields.io/badge/WHATSAPP-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x">
-    <img src="https://img.shields.io/badge/WHATSAPP-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
