@@ -23,7 +23,7 @@ const handler = async (m, { conn, command, participants }) => {
 };
 
 handler.command = ['open', 'close'];
-handler.group = true;
+handler.tags = ['grupo']
 handler.admin = true;
 handler.botAdmin = true;
 
