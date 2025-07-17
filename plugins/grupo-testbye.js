@@ -40,4 +40,4 @@ testbye.command = ['testbye'];
 testbye.owner = false;
 testbye.admin = true;
 
-export default testbye;
+export default handler;
