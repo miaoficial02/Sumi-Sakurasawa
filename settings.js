@@ -53,7 +53,7 @@ global.botname = '𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴'
 global.wm = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
 global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.textbot = 'sᥙmі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.etiqueta = 'і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
