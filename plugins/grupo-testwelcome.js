@@ -40,4 +40,4 @@ testwelcome.command = ['testwelcome'];
 testwelcome.owner = false;
 testwelcome.admin = true;
 
-export default testwelcome;
+export default handler;
