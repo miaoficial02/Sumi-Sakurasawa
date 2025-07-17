@@ -424,7 +424,7 @@ Aquí tienes mi lista de comandos
           externalAdReply: {
               title: botname,
               body: textbot,
-              thumbnailUrl: "https://files.catbox.moe/km1exh.jpg",
+              thumbnailUrl: banner,
               sourceUrl: redes,
               mediaType: 1,
               showAdAttribution: true,
