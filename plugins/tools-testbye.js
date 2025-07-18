@@ -1,13 +1,13 @@
 import fetch from 'node-fetch';
 
-let testbye = async (m, { conn, groupMetadata }) => {
+let handler = async (m, { conn, groupMetadata }) => {
   if (!m.isGroup) return m.reply('❌ Este comando solo funciona en grupos.');
   
   const chat = global.db.data.chats[m.chat];
   if (!chat.welcome) return m.reply('⚠️ La despedida está desactivada en este grupo.');
 
   const userLeaving = m.sender;
-  const groupSize = (groupMetadata.participants || []).length - 1; // Asumiendo que se va uno
+  const groupSize = (groupMetadata.participants || []).length - 1;
 
   const fkontak = { 
     key: { 
@@ -34,10 +34,10 @@ let testbye = async (m, { conn, groupMetadata }) => {
   await conn.sendMini(m.chat, txt, dev, goodbye, img, img, redes, fkontak);
 };
 
-testbye.help = ['testbye'];
-testbye.tags = ['tools'];
-testbye.command = ['testbye'];
-testbye.owner = false;
-testbye.admin = true;
+handler.help = ['testbye'];
+handler.tags = ['tools'];
+handler.command = ['testbye'];
+handler.owner = false;
+handler.admin = true;
 
 export default handler;
