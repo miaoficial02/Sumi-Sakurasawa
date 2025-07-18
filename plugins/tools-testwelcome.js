@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-let testwelcome = async (m, { conn, groupMetadata }) => {
+let handler = async (m, { conn, groupMetadata }) => {
   if (!m.isGroup) return m.reply('❌ Este comando solo funciona en grupos.');
   
   const chat = global.db.data.chats[m.chat];
@@ -34,10 +34,10 @@ let testwelcome = async (m, { conn, groupMetadata }) => {
   await conn.sendMini(m.chat, txt, dev, bienvenida, img, img, redes, fkontak);
 };
 
-testwelcome.help = ['testwelcome'];
-testwelcome.tags = ['tools'];
-testwelcome.command = ['testwelcome'];
-testwelcome.owner = false;
-testwelcome.admin = true;
+handler.help = ['testwelcome'];
+handler.tags = ['tools'];
+handler.command = ['testwelcome'];
+handler.owner = false;
+handler.admin = true;
 
 export default handler;
