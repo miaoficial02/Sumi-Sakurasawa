@@ -1,24 +1,20 @@
-function clockString(ms) {
-  if (isNaN(ms)) return '--:--:--'
-  let h = Math.floor(ms / 3600000)
-  let m = Math.floor((ms % 3600000) / 60000)
-  let s = Math.floor((ms % 60000) / 1000)
-  return [h, m, s].map(v => v.toString().padStart(2, '0')).join(':')
-}
+import moment from 'moment-timezone';
 
-const handler = async (m, { conn }) => {
-  let setting = global.db.data.settings?.[conn.user.jid]
-  if (!setting?.autobio) return
+let handler = async (m, { conn }) => {
+  let namebot = global.namebot || 'Bot'
+  let date = moment().tz('America/Argentina/Buenos_Aires').format('DD/MM/YY')
+  let time = moment().tz('America/Argentina/Buenos_Aires').format('HH:mm:ss')
 
-  let uptime = clockString(process.uptime() * 1000)
-  let bio = `『${global.packname}』 | Activo: ${uptime} | Developed by 👑its.mia.oficial👑`
+  // Asegura que autobio siempre esté activo
+  let idBot = conn.user.jid
+  global.db.data.settings[idBot] = global.db.data.settings[idBot] || {}
+  global.db.data.settings[idBot].autobio = true
 
-  try {
-    await conn.updateProfileStatus(bio)
-  } catch (e) {
-    // ignorar errores
+  // Si está activado, actualiza la bio automáticamente
+  if (global.db.data.settings[idBot].autobio) {
+    let bio = `🌸 ${botname} 🌸 | #help #owner | by @its.mia.oficial`
+    await conn.updateProfileStatus(bio).catch(console.error)
   }
 }
-
-handler.all = true // se ejecuta en todos los mensajes
+handler.all = handler
 export default handler
