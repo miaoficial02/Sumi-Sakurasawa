@@ -143,8 +143,9 @@ role: 'Nuv',
 premium: false,
 premiumTime: 0,                 
 }
-let chat = global.db.data.chats[m.chat]
+let chat = (global.db?.data?.chats || {})[m.chat] || {}
 if (typeof chat !== 'object')
+global.db.data.chats = global.db.data.chats || {}
 global.db.data.chats[m.chat] = {}
 if (chat) {
 if (!('isBanned' in chat))
